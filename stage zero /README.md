@@ -1,5 +1,4 @@
 # Hack-Bio-coding
-#Task Description 
 ## Task Description 
 This repository stores and prints details of our team members participating in the **HackBio Biocoding Internship** as part of our stage_zero task. 
 Each team member's information is stored in a dictionary and displayed using formatted print statements.
